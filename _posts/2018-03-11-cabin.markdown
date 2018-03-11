@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Latar Belakang Jurusan Informatika ITN"
+date:   2018-03-10 15:10:00 -0500
+img: img/portfolio/html1.png
+modalID: modalCabin
+category: Design
+---
+
+Berdirinya Program Studi Teknik Informatika diawali dengan berdirinya Konsentrasi Teknik Komputer dan Informatika yang bernaung di bawah Program Studi Teknik Elektro pada tahun 2004, dan telah diterima secara baik oleh masyarakat. Mengingat kebutuhan Teknik Informatika dalam pembangunan masyarakat dan dunia industri yang semakin meningkat dari tahun ke tahun, Teknik Informatika akhirnya diwujudkan dalam sebuah Program Studi Strata Satu sejak tahun 2008 berdasarkan Ijin Penyelenggaraan Program Studi Teknik Informatika (S1) dari Departemen Pendidikan Nasional Direktorat Jenderal Pendidikan Tinggi nomor 2002/D/T/2008. Dengan demikian penyelenggaraan Program Studi Teknik Informatika telah dipayungi secara resmi dibawah koordinasi Departemen Pendidikan Nasional Dirjen Dikti. Oleh karena itu, proses pengembangan Program Studi Teknik Informatika lebih lanjut dapat diwujudkan dengan baik dan terprogram.
+Kurikulum yang diacu dalam menjalankan proses belajar dan mengajar di Program Studi Teknik Informatika S-1 mengikuti kurikulum yang dikeluarkan oleh Asosiasi Perguruan Tinggi Teknik Informatika dan Komputer (APTIKOM) serta standar kurikulum internasional bidang informatika yang diformulasikan oleh Association for Computing Machinery (ACM) dan Computer Society dari Institute for Electrical and Electronic Engineers (IEEE-CS), yaitu Computing Curricula. Bahan kajian yang tercakup dalam kurikulum ini meliputi:
+
+• Pemrograman Komputer dan Rekayasa Perangkat Lunak
+• Database dan Sistem Informasi
+• Pengolahan Citra dan Komputer Grafis
+• Sistem Komputer dan Jaringan Komputer
+• Matematika dan Kecerdasan Buatan
+• Technopreneur dan Riset Teknologi Informasi
+• Pendidikan Karakter dan Anti Korupsi
+• Penelitian dan Komunikasi
+• Bidang Keahlian Khusus
+
+Tujuan disusunnya kurikulum ini adalah untuk memperlihatkan secara jelas pemenuhan standar kompetensi yang harus dimiliki oleh lulusan Teknik Informatika S-1, sehingga sumber daya manusia yang dihasilkan dapat diserap oleh kebutuhan masyarakat dan dunia industri baik dalam skala lokal, nasional, maupun global. Untuk memenuhi tujuan diatas, proses penyusunan kurikulum mengacu pada Kerangka Kualifikasi Nasional Indonesia (KKNI). Dengan metode ini maka berbagai aspek yang berpengaruh dalam pembentukan sumber daya manusia yang kompeten di bidang Teknik Informatika didefinisikan secara seksama dan terencana, yaitu meliputi aspek profil lulusan, kompetensi-kompetensi yang harus dimiliki oleh lulusan Teknik Informatika baik dari sisi hardskill maupun softskill, bahan kajian yang diperlukan dalam pembentukan kompetensi, prosedur penyampaian bahan kajian, serta keterkaitan antar bahan kajian untuk membentuk keahlian khusus yang menjadi ciri Program Studi Teknik Informatika S-1 ITN.
+[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
