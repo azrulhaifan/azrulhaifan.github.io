@@ -2,8 +2,8 @@
 layout: post
 title:  "Latar Belakang Jurusan Informatika ITN"
 date:   2018-03-10 15:10:00 -0500
-img: img/portfolio/html1.png
-modalID: modalCabin
+img: img/portfolio/informatika.png
+modalID: modalCake
 category: Design
 ---
 
@@ -21,4 +21,3 @@ Kurikulum yang diacu dalam menjalankan proses belajar dan mengajar di Program St
 • Bidang Keahlian Khusus
 
 Tujuan disusunnya kurikulum ini adalah untuk memperlihatkan secara jelas pemenuhan standar kompetensi yang harus dimiliki oleh lulusan Teknik Informatika S-1, sehingga sumber daya manusia yang dihasilkan dapat diserap oleh kebutuhan masyarakat dan dunia industri baik dalam skala lokal, nasional, maupun global. Untuk memenuhi tujuan diatas, proses penyusunan kurikulum mengacu pada Kerangka Kualifikasi Nasional Indonesia (KKNI). Dengan metode ini maka berbagai aspek yang berpengaruh dalam pembentukan sumber daya manusia yang kompeten di bidang Teknik Informatika didefinisikan secara seksama dan terencana, yaitu meliputi aspek profil lulusan, kompetensi-kompetensi yang harus dimiliki oleh lulusan Teknik Informatika baik dari sisi hardskill maupun softskill, bahan kajian yang diperlukan dalam pembentukan kompetensi, prosedur penyampaian bahan kajian, serta keterkaitan antar bahan kajian untuk membentuk keahlian khusus yang menjadi ciri Program Studi Teknik Informatika S-1 ITN.
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
