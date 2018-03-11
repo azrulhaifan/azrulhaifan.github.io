@@ -7,8 +7,8 @@ modalID: modalCabin
 category: Design
 ---
 
-<li>
-  <ul><I> </I> Menyisipkan tulisan miring.   makan
+<ol>
+  <ul><I> </I> Menyisipkan tulisan miring.</ul>
 <u> </u> Menyisipkan tulisan bergaris bawah.   minum
 <b> </b> Menyisipkan tulisan tebal .   belajar
 <li> </li> Menyisipkan bullet.  *  FUNGSI HTML
@@ -48,6 +48,6 @@ category: Design
 <td> </td> Mendefinisikan sel di dalam sebuah table. Height, width, bgcolor, background, align, valign, title, colspan, rowspan
 <thead> </thead> Untuk mengelompokkan isi header di dalam sebuah tabel
 <samp> </samp> Mendefinisikan contoh keluaran dari program computer
- </li>
+ </ol>
 
 [flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
