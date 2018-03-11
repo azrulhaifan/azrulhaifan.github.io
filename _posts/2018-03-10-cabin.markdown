@@ -7,7 +7,7 @@ modalID: modalCabin
 category: Design
 ---
 
-<iframe src="https://docs.google.com/viewerng/viewer?url=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf&hl=bn&embedded=true">
+<iframe src="https://docs.google.com/viewerng/viewer?url=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf&hl=id&embedded=true">
 </iframe>
 
 [flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
