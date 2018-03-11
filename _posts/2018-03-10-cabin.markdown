@@ -6,6 +6,6 @@ img: img/portfolio/html1.png
 modalID: modalCabin
 category: Design
 ---
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+{{ site.baseurl }}/pdf/pdf1.pdf
 
 [flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
