@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sintax HTML versi 1"
+date:   2018-03-10 15:00:00 -0500
+img: img/portfolio/html1.png
+modalID: modalCabin
+category: Design
+---
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+
+[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
