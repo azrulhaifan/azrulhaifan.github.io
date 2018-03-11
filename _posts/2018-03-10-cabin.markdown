@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Sintax HTML versi 1"
+title:  "Syntax HTML versi 1"
 date:   2018-03-10 15:00:00 -0500
 img: img/portfolio/html1.png
 modalID: modalCabin
 category: Design
 ---
-{{ site.baseurl }}/pdf/pdf1.pdf
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
 
 [flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
