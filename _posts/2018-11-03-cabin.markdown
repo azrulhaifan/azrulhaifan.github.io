@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Cabin"
+date:   2018-10-03 15:00:00 -0500
+img: img/portfolio/html1.png
+modalID: modalCabin
+category: Design
+---
+
+<I> </I> Menyisipkan tulisan miring.   makan
+<u> </u> Menyisipkan tulisan bergaris bawah.   minum
+<b> </b> Menyisipkan tulisan tebal .   belajar
+<li> </li> Menyisipkan bullet.  *  FUNGSI HTML
+<marquee> </marquee> Menyisipkan tulisan berjalan .  “welcome to website” bergerak dari kiri ke kanan atau dari atas ke bawah.
+<blink> </blink> Menyisipkan tulisan berkedip kedip. <blink> klick here </blink>
+<center> </center> Menyisipkan tulisan dalam bentuk ratah tengah.
+<title> </title> Menyisipkan title html
+<head> </head> Menyisipkan bagian head pada sebuah html.
+<body> </body> Menyisipkan atribut untuk seluruh dokumen. Background, bgcolor, bgsound, font, link, alink, vlink, topmargin, leftmargin, marginheight, marginwidth
+<html></html> Tag pembuka di dalam membuat sebuah desain web.
+<h1>   </h1> Menyisipkan tulisan dalam bentuk h1 Header 1
+<h2> </h2> Menyisipkan tulisan dalam bentuk h2.Header 2
+<h3></h3> Menyisipkan tulisan dalam bentuk h3. Header 3
+<h4></h4> Menyisipkan tulisan dalam bentuk h4. Header 4
+<h5></h5> Menyisipkan tulisan dalam bentuk h5. Header 5
+<h6></h6> Menyisipkan tulisan dalam bentuk h6. Header 6
+<h7> </h7> Menyisipkan tulisan dalam bentuk h7. Header 7
+<abbr> </abbr> Digunakan untuk menguraikan satu ungkapan yang disingkat dan Anda dapat memberikan informasi bermanfaat kepada penelusur-penulusur page source(halaman sumber kode) / pembaca layar, sistem terjemahan dan mesin pencari yang berasal dari singkatan yang sudah diuraikan, tetapi saat di browser uraian tersebut tidak akan tampil dan hanya sebagai informasi saja
+<acronym></acronym> Mendefinisikan akronim / fungsi tag ini kurang lebih sama dengan tag <abbr>
+<area ></area> Mendefinisikan daerah yang dapat diklik (link) pada peta gambar
+<base > </base> Mendefinisikan URL dasar/target untuk semua URL relatif dalam dokumen
+<blockquote> </blockquota> Mendefinisikan sebuah kutipan panjang. Pada saat di browser teks akan tampil menjorok kedalam
+<cite> </cite> Mendefinisikan kutipan
+<code> </code> Mendefinisikan sebuah bagian dari kode komputer
+<button> </button> Mendefinisikan sebuah tombol diklik
+<cite> </cite> Mendefinisikan kutipan
+<font> </font> Mendefinisikan jenis font, warna dan ukuran untuk teks
+<form> </form> Mendefinisikan sebuah form HTML untuk input form
+<frame> </frame> Mendefinisikan frame dalam frameset
+<hr> </hr> Membuat garis horizontal
+<small> </small> Memperkecil ukuran teks dari ukuran defaultnya
+<span> </span> Mendefinisikan sebuah section dalam dokumen
+<strike> </strike> Untuk memberi garis tengah pada teks/mencoret teks, fungsi tag ini sama dengan tag <del>
+<strong> </strong> Membuat teks tebal, fungsi tag ini sama dengan tag <b>
+<tr> </tr> Membuat baris di dalam sebuah table
+<ul> </ul> Mendefinisikan daftar dalam format bullet
+<td> </td> Mendefinisikan sel di dalam sebuah table. Height, width, bgcolor, background, align, valign, title, colspan, rowspan
+<thead> </thead> Untuk mengelompokkan isi header di dalam sebuah tabel
+<samp> </samp> Mendefinisikan contoh keluaran dari program computer
+
+[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
